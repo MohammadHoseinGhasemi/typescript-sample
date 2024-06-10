@@ -1,0 +1,33 @@
+h4 {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(41, 41, 41);
+
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(26, 26, 26);
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+    /* margin-top: 5rem; */
+    margin: 5rem 2rem 2rem 2rem;
+    width: 350px;
+    height: auto;
+    border-radius: 1rem;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #a1a1a1 0%, #cccccc 46%, #fdfdfd 100%);
+    box-shadow: rgb(235, 235, 235) 0px -23px 25px 0px inset,
+        rgb(215, 215, 215) 0px -36px 30px 0px inset,
+        rgb(190, 190, 190) 0px -79px 40px 0px inset,
+        rgb(160, 160, 160) 0px 2px 1px,
+        rgb(140, 140, 140) 0px 4px 2px,
+        rgb(110, 110, 110) 0px 8px 4px,
+        rgb(90, 90, 90) 0px 16px 8px,
+        rgb(70, 70, 70) 0px 32px 16px;
+}
